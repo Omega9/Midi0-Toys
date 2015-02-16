@@ -1,0 +1,93 @@
+001 Chromatic;0,1,2,3,4,5,6,7,8,9,10,11
+002 Major;0,2,4,5,7,9,11
+003 Minor - Natural;0,2,3,5,7,8,10
+004 Minor - Melodic;0,2,3,5,7,9,11
+005 Minor - Harmonic;0,2,3,5,7,8,11
+006 Pentatonic - Major;0,2,4,7,9
+007 Pentatonic - Minor;0,3,5,7,10
+008 Blues;0,3,5,6,7,10
+009
+010 ======22-EDO======
+011 22-edo "Just" Major;0,4,7,9,13,16,20;22
+012 22-edo "Just" Minor;0,4,6,9,13,15,18;22
+013 22-edo Natural Minor;0,4,6,9,13,15,19;22
+014 22-edo Melodic Minor;0,4,6,9,13,16,20;22
+015 22-edo Harmonic Minor;0,4,6,9,13,15,20;22
+016 22-edo Harmonic Major;0,4,7,9,13,15,20;22
+017 ------------------
+018 22-edo Ionian (maj) Porcupine;0,4,7,9,13,16,19;22
+019 22-edo Dorian (min) Porcupine;0,4,6,9,13,16,19;22
+020 22-edo Major-Minor Porcupine;0,4,7,10,13,15,19;22
+021 
+022 22-edo Porcupine-7 Magical seventh mode;0,3,6,9,12,15,18;22
+023 22-edo Porcupine-7 Diminished;0,3,6,9,12,15,19;22
+024 22-edo Porcupine-7 Diminished;0,3,6,9,12,16,19;22
+025 22-edo Porcupine-7 symmetric minor ("dorian");0,3,6,9,13,16,19;22
+026 22-edo Porcupine-7 bright minor;0,3,6,10,13,16,19;22
+027 22-edo Porcupine-7 dark major;0,3,7,10,13,16,19;22
+028 22-edo Porcupine-7 bright otonal major;0,4,7,10,13,16,19;22
+029 
+030 22-edo Porcupine-8 33333331;0,3,6,9,12,15,18,21;22
+031 22-edo Porcupine-8 33333313;0,3,6,9,12,15,18,19;22
+032 22-edo Porcupine-8 33333133;0,3,6,9,12,15,16,19;22
+033 22-edo Porcupine-8 33331333 kind of minor;0,3,6,9,12,13,16,19;22
+034 22-edo Porcupine-8 33313333 kind of minor;0,3,6,9,10,13,16,19;22
+035 22-edo Porcupine-8 33133333 both minor and major;0,3,6,7,10,13,16,19;22
+036 22-edo Porcupine-8 31333333 kind of major;0,3,4,7,10,13,16,19;22
+037 22-edo Porcupine-8 13333333 kind of major;0,1,4,7,10,13,16,19;22
+038 
+039 22-edo Hedgehog-6 353353;0,3,8,11,14,19;22
+040 22-edo Hedgehog-6 335335;0,3,6,11,14,17;22
+041 22-edo Hedgehog-6 533533;0,5,8,11,16,19;22
+042 
+043 22-edo Hedgehog-8 33323332;0,3,6,9,11,14,17,20;22
+044 22-edo Hedgehog-8 33233323;0,3,6,8,11,14,17,19;22
+045 22-edo Hedgehog-8 32333233;0,3,5,8,11,14,16,19;22
+046 22-edo Hedgehog-8 23332333;0,2,5,8,11,13,16,19;22
+047 ------------------
+048 22-edo Superpyth-7 Major (Ionian);0,4,8,9,13,17,21;22
+049 22-edo Superpyth-7 Dorian;0,4,5,9,13,17,18;22
+050 22-edo Superpyth-7 Phrygian;0,1,5,9,13,14,18;22
+051 22-edo Superpyth-7 Lydian;0,4,8,12,13,17,21;22
+052 22-edo Superpyth-7 Mixolydian;0,4,8,9,13,17,18;22
+053 22-edo Superpyth-7 Minor (Aolian);0,4,5,9,13,14,18;22
+054 22-edo Superpyth-7 Locrian;0,1,5,9,10,14,18;22
+055 
+056 22-edo Superpyth-5 45454;0,4,9,13,18;22
+057 22-edo Superpyth-5 44545;0,4,8,13,17;22
+058 22-edo Superpyth-5 54454 Septimal Minor Pentatonic;0,5,9,13,18;22
+059 22-edo Superpyth-5 45445;0,4,9,13,17;22
+060 22-edo Superpyth-5 54544;0,5,9,14,18;22
+061 ------------------
+062 22-edo Astrology-6 434434;0,4,7,11,15,18;22
+063 22-edo Astrology-6 443443;0,4,8,11,15,19;22
+064 22-edo Astrology-6 344344;0,3,7,11,14,18;22
+065
+066 ======19-EDO======
+067 19-edo Major;0,3,6,8,11,14,17;19
+068 19-edo Natural Minor;0,3,5,8,11,13,16;19
+069 19-edo Melodic Minor;0,3,5,8,11,14,17;19
+070 19-edo Harmonic Minor;0,3,5,8,11,13,17;19
+071 19-edo Harmonic Major;0,3,6,8,11,13,17;19
+072 ------------------
+073 19-edo Major Pentatonic;0,3,6,11,14;19
+074 19-edo Minor Pentatonic;0,5,8,11,16;19
+075 19-edo Suspended Pentatonic;0,3,8,11,16;19
+076 19-edo Quasi-equal Pentatonic, Semaphore-5;0,4,8,11,15;19
+077 ------------------
+078 19-edo Meantone Chromatic (1/3-comma);0,1,3,5,6,8,11,12,14,16,17;19
+079 19-edo Genus diatonico-chromaticum, Yasser's Supradiatonic Inverse;0,2,3,5,6,8,9,11,13,14,16,17;19
+080 19-edo Yasser's Supradiatonic, Genus diatonico-chromaticum Inverse;0,2,3,5,6,8,10,11,13,14,16,17;19
+081 ------------------
+082 19-edo Four out of 19;0,5,9,14;19
+083 19-edo Five out of 19, Godzilla-5 Inverse;0,4,8,12,16;19
+084 19-edo Godzilla-5;0,3,7,11,15;19
+085 19-edo Godzilla-9;0,3,6,7,10,11,14,15,18;19
+086 19-edo Yasser's Hexad, Spell-6, Deutone-6;0,3,6,9,12,15;19
+087 19-edo Deutone-7;0,1,4,7,10,13,16;19
+088 19-edo Major Locrian;0,2,4,7,10,13,16;19
+089 19-edo Kleismic-7;0,1,5,6,10,11,15;19
+090 19-edo Kleismic-8;0,1,5,6,10,11,15,16;19
+091 19-edo Kleismic-11;0,1,2,5,6,9,10,11,14,15,16;19
+092 19-edo Negri-9;0,2,4,6,8,11,13,15,17;19
+093 19-edo Negri's 10 + 9;0,2,4,6,8,10,12,14,16,18;19
