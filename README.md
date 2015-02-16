@@ -42,7 +42,7 @@ Since version 1.02 you can set a note where pattern begins to repeat. Many thank
 ```
 Chromatic;0,1,2,3,4,5,6,7,8,9,10,11;12
 ```
-So now you can do thing like this:
+So now you can do things like this:
 ```
 22-edo "Just" Major;0,4,7,9,13,16,20;22
 22-edo "Just" Minor;0,4,6,9,13,15,18;22
