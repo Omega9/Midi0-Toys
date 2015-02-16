@@ -1,7 +1,6 @@
-# MAX-M4L-etc
-My patches for Max/m4l/etc
+# Midi0-Toys
 
-Some thing that I've made for my microtonal (but not only) needs.
+My patches for Max, m4l, Pd and some useful things for playing microtonal (but not only) music.
 
 ---
 ## MJammer
