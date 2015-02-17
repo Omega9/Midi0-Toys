@@ -1,7 +1,7 @@
 # [TouchOSC](hexler.net/software/touchosc) layouts
 
 **ReaperRecorder** is based on [TouchReaper](forum.cockos.com/showpost.php?s=764669ee8aaa672e21baf215bc17aadd&p=923046&postcount=9) layout.
-It's much simpler and intended to use just as remote control for a record time rather than mixer.
+It's much simpler and intended to use as a remote control for a record time rather than mixer.
 
 Place **ReaperRecorder.ReaperOSC** to **C:/users/_username_/Application Data/REAPER/OSC/**
 
