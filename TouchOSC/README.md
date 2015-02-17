@@ -7,7 +7,7 @@ Place **ReaperRecorder.ReaperOSC** to **C:/users/_username_/Application Data/REA
 
 ReaperRecorder.touchosc
 ReaperRecorder.ReaperOSC
-![](/screenshots/ReaperRecorder.png)
+![ReaperRecorder](/screenshots/ReaperRecorder.png)
 ---
 
 Simple [17-edo](xenharmonic.wikispaces.com/17edo) Halberstadt keyboard.
@@ -15,7 +15,7 @@ The higher and the lower version.
 
 17-edo keyboard.touchosc
 17-edo keyboard lo.touchosc
-![](/screenshots/17-edo_keyboard.png)
+![17-edo_keyboard](/screenshots/17-edo_keyboard.png)
 ---
 
 Simple [19-edo](xenharmonic.wikispaces.com/19edo) Halberstadt keyboard.
@@ -23,7 +23,7 @@ The higher and the lower version.
 
 19-edo keyboard.touchosc
 19-edo keyboard lo.touchosc
-![](/screenshots/19-edo_keyboard.png)
+![19-edo_keyboard](/screenshots/19-edo_keyboard.png)
 ---
 
 Joseph Yasser's 19-edo 12-7 ([supradiatonic](xenharmonic.wikispaces.com/19edo#As a means of extending harmony) and diatonic) keyboard.
@@ -31,8 +31,8 @@ The higher and the lower version.
 
 Yasser's 19-edo keyboard-hi.touchosc
 Yasser's 19-edo keyboard-lo.touchosc
-![](/screenshots/Yasser's_19-edo_keyboard_1.png)
-![](/screenshots/Yasser's_19-edo_keyboard_2.png)
+![Yasser's_19-edo_keyboard_1](/screenshots/Yasser's_19-edo_keyboard_1.png)
+![Yasser's_19-edo_keyboard_2](/screenshots/Yasser's_19-edo_keyboard_2.png)
 ---
 
 "[Symmetric](www.youtube.com/watch?v=dGUD58gp6Fk)" or "balanced" 6-6 keyboard.
@@ -43,7 +43,7 @@ The higher and the lower version.
 
 Balanced Keyboard.touchosc
 Balanced Keyboard lo.touchosc
-![](/screenshots/Balanced_Keyboard.png)
+![Balanced_Keyboard](/screenshots/Balanced_Keyboard.png)
 ---
 
 Various layouts
@@ -51,8 +51,8 @@ Various layouts
 Lattice (12-edo).touchosc
 Padboard-lo-h.touchosc
 Padboard-mid-h.touchosc
-![](/screenshots/Padboard1.png)
-![](/screenshots/Padboard2.png)
+![Padboard1](/screenshots/Padboard1.png)
+![Padboard2](/screenshots/Padboard2.png)
 ---
 
 UNDONE:
