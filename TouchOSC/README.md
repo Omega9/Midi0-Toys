@@ -6,8 +6,10 @@ It's much simpler and intended to use as a remote control for a record time rath
 Place **ReaperRecorder.ReaperOSC** to **C:/users/_username_/Application Data/REAPER/OSC/**
 
 ReaperRecorder.touchosc
+ReaperRecorderH.touchosc
 ReaperRecorder.ReaperOSC
 ![](/TouchOSC/screenshots/ReaperRecorder.png)
+![](/TouchOSC/screenshots/ReaperRecorderH.png)
 ---
 
 Simple [17-edo](xenharmonic.wikispaces.com/17edo) Halberstadt keyboard.
