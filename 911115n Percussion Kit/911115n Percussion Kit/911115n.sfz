@@ -1,0 +1,1045 @@
+// 911115n Percussion Kit
+// by Omega9 (about.me/Omega9)
+//
+// Licensed under CC BY-SA 3.0
+// http://creativecommons.org/licenses/by-sa/3.0/
+
+<group>
+ampeg_decay=0.5
+ampeg_release=0.3
+
+<region> sample=Samples\FridgeHi 1 - 01.wav
+key=24
+lovel=1
+hivel=31
+offset=1344
+
+<region> sample=Samples\FridgeHi 1 - 02.wav
+key=24
+lovel=32
+hivel=62
+offset=8415
+
+<region> sample=Samples\FridgeHi 1 - 03-[1].wav
+key=24
+lovel=63
+hivel=94
+offset=3312
+
+<region> sample=Samples\FridgeHi 1 - 04.wav
+key=24
+lovel=95
+hivel=127
+offset=4680
+
+<region> sample=Samples\FridgeHi 2 - 01.wav
+key=25
+lovel=1
+hivel=31
+offset=5166
+
+<region> sample=Samples\FridgeHi 2 - 02.wav
+key=25
+lovel=32
+hivel=62
+offset=8330
+
+<region> sample=Samples\FridgeHi 2 - 03.wav
+key=25
+lovel=63
+hivel=94
+offset=6693
+
+<region> sample=Samples\FridgeHi 2 - 04.wav
+key=25
+lovel=95
+hivel=127
+offset=4828
+
+<region> sample=Samples\FridgeHi 3 - 01-[1].wav
+key=26
+lovel=1
+hivel=31
+offset=4832
+
+<region> sample=Samples\FridgeHi 3 - 02-[1].wav
+key=26
+lovel=32
+hivel=62
+offset=5068
+
+<region> sample=Samples\FridgeHi 3 - 03-[1].wav
+key=26
+lovel=63
+hivel=94
+offset=7380
+
+<region> sample=Samples\FridgeHi 3 - 04-[1].wav
+key=26
+lovel=95
+hivel=127
+offset=9020
+
+<region> sample=Samples\FridgeHi 4 - 01.wav
+key=27
+lovel=1
+hivel=31
+offset=11616
+
+<region> sample=Samples\FridgeHi 4 - 02.wav
+key=27
+lovel=32
+hivel=62
+offset=7260
+
+<region> sample=Samples\FridgeHi 4 - 03.wav
+key=27
+lovel=63
+hivel=94
+offset=3604
+
+<region> sample=Samples\FridgeHi 4 - 04.wav
+key=27
+lovel=95
+hivel=127
+offset=10200
+
+<region> sample=Samples\Coach 1 - 01.wav
+key=28
+lovel=1
+hivel=31
+
+<region> sample=Samples\Coach 1 - 02.wav
+key=28
+lovel=32
+hivel=62
+offset=2412
+
+<region> sample=Samples\Coach 1 - 03.wav
+key=28
+lovel=63
+hivel=94
+offset=2175
+
+<region> sample=Samples\Coach 1 - 04.wav
+key=28
+lovel=95
+hivel=127
+offset=1752
+
+<region> sample=Samples\Coach 2 - 01.wav
+key=29
+lovel=1
+hivel=31
+
+<region> sample=Samples\Coach 2 - 02.wav
+key=29
+lovel=32
+hivel=62
+
+<region> sample=Samples\Coach 2 - 03.wav
+key=29
+lovel=63
+hivel=94
+offset=999
+
+<region> sample=Samples\Coach 2 - 04.wav
+key=29
+lovel=95
+hivel=127
+offset=1230
+
+<region> sample=Samples\Coach 3 - 01.wav
+key=30
+lovel=1
+hivel=31
+offset=632
+
+<region> sample=Samples\Coach 3 - 02.wav
+key=30
+lovel=32
+hivel=62
+offset=146
+
+<region> sample=Samples\Coach 3 - 03.wav
+key=30
+lovel=63
+hivel=94
+offset=372
+
+<region> sample=Samples\Coach 3 - 04.wav
+key=30
+lovel=95
+hivel=127
+offset=2175
+
+<region> sample=Samples\Coach 4 - 01.wav
+key=31
+lovel=1
+hivel=31
+
+<region> sample=Samples\Coach 4 - 02.wav
+key=31
+lovel=32
+hivel=62
+offset=66
+
+<region> sample=Samples\Coach 4 - 03.wav
+key=31
+lovel=63
+hivel=94
+offset=176
+
+<region> sample=Samples\Coach 4 - 04.wav
+key=31
+lovel=95
+hivel=127
+offset=303
+
+<region> sample=Samples\Coach 5 - 01.wav
+key=32
+lovel=1
+hivel=31
+offset=924
+
+<region> sample=Samples\Coach 5 - 02.wav
+key=32
+lovel=32
+hivel=62
+offset=3090
+
+<region> sample=Samples\Coach 5 - 03.wav
+key=32
+lovel=63
+hivel=94
+offset=2376
+
+<region> sample=Samples\Coach 5 - 04.wav
+key=32
+lovel=95
+hivel=127
+offset=2240
+
+<region> sample=Samples\Snare 1 Rubber - 01.wav
+key=33
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 1 Rubber - 02.wav
+key=33
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 1 Rubber - 03.wav
+key=33
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 1 Rubber - 04.wav
+key=33
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare 2 Wood - 01.wav
+key=34
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 2 Wood - 02.wav
+key=34
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 2 Wood - 03.wav
+key=34
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 2 Wood - 04.wav
+key=34
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare 3 Rubber Reso - 01.wav
+key=35
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 3 Rubber Reso - 02.wav
+key=35
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 3 Rubber Reso - 03.wav
+key=35
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 3 Rubber Reso - 04.wav
+key=35
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare 4 Wood Reso - 01.wav
+key=36
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 4 Wood Reso - 02.wav
+key=36
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 4 Wood Reso - 03.wav
+key=36
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 4 Wood Reso - 04.wav
+key=36
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare 5 - 01.wav
+key=37
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 5 - 02.wav
+key=37
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 5 - 03-[1].wav
+key=37
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 5 - 04-[1].wav
+key=37
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare 6 - 01.wav
+key=38
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare 6 - 02.wav
+key=38
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare 6 - 03.wav
+key=38
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare 6 - 04.wav
+key=38
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare2 1 Rubber - 01.wav
+key=39
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare2 1 Rubber - 02-[1].wav
+key=39
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare2 1 Rubber - 03-[1].wav
+key=39
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare2 1 Rubber - 04-[1].wav
+key=39
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare2 2 Wood - 01-[1].wav
+key=40
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare2 2 Wood - 02-[1].wav
+key=40
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare2 2 Wood - 03-[1].wav
+key=40
+lovel=63
+hivel=94
+
+<region> sample=Samples\Snare2 2 Wood - 04.wav
+key=40
+lovel=95
+hivel=127
+
+<region> sample=Samples\Snare3 - 01.wav
+key=41
+lovel=1
+hivel=31
+
+<region> sample=Samples\Snare3 - 02.wav
+key=41
+lovel=32
+hivel=62
+
+<region> sample=Samples\Snare3 - 03.wav
+key=41
+lovel=63
+hivel=117
+
+<region> sample=Samples\Snare3 - 04.wav
+key=41
+lovel=118
+hivel=127
+
+<region> sample=Samples\Hat 1 - 01.wav
+key=42
+lovel=1
+hivel=31
+
+<region> sample=Samples\Hat 1 - 02.wav
+key=42
+lovel=32
+hivel=62
+
+<region> sample=Samples\Hat 1 - 03.wav
+key=42
+lovel=63
+hivel=94
+
+<region> sample=Samples\Hat 1 - 04.wav
+key=42
+lovel=95
+hivel=127
+
+<region> sample=Samples\Hat 2 - 01.wav
+key=43
+lovel=1
+hivel=31
+
+<region> sample=Samples\Hat 2 - 02.wav
+key=43
+lovel=32
+hivel=62
+
+<region> sample=Samples\Hat 2 - 03.wav
+key=43
+lovel=63
+hivel=94
+
+<region> sample=Samples\Hat 2 - 04.wav
+key=43
+lovel=95
+hivel=127
+
+<region> sample=Samples\Hat 3 - 01.wav
+key=44
+lovel=1
+hivel=31
+
+<region> sample=Samples\Hat 3 - 02.wav
+key=44
+lovel=32
+hivel=62
+
+<region> sample=Samples\Hat 3 - 03.wav
+key=44
+lovel=63
+hivel=94
+
+<region> sample=Samples\Hat 3 - 04.wav
+key=44
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 1 - 01.wav
+key=45
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 1 - 02.wav
+key=45
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 1 - 03.wav
+key=45
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 1 - 04.wav
+key=45
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 2 - 01.wav
+key=46
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 2 - 02.wav
+key=46
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 2 - 03.wav
+key=46
+lovel=63
+hivel=117
+
+<region> sample=Samples\Crash 2 - 04 SHITTY ONE-[1].wav
+key=46
+lovel=118
+hivel=127
+
+<region> sample=Samples\Crash 3 - 01.wav
+key=47
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 3 - 02.wav
+key=47
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 3 - 03.wav
+key=47
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 3 - 04.wav
+key=47
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 4 - 01.wav
+key=48
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 4 - 02.wav
+key=48
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 4 - 03.wav
+key=48
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 4 - 04.wav
+key=48
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 5 - 01-[2].wav
+key=49
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 5 - 02-[1].wav
+key=49
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 5 - 03-[1].wav
+key=49
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 5 - 04-[1].wav
+key=49
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 6 - 01-[1].wav
+key=50
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 6 - 02-[1].wav
+key=50
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 6 - 03-[1].wav
+key=50
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 6 - 04-[1].wav
+key=50
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 7 - 01-[1].wav
+key=51
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 7 - 02-[1].wav
+key=51
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 7 - 03-[1].wav
+key=51
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 7 - 04-[1].wav
+key=51
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 8 - 01.wav
+key=52
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 8 - 02-[1].wav
+key=52
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 8 - 03-[1].wav
+key=52
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 8 - 04-[1].wav
+key=52
+lovel=95
+hivel=127
+
+<region> sample=Samples\Crash 9 - 01-[1].wav
+key=53
+lovel=1
+hivel=31
+
+<region> sample=Samples\Crash 9 - 02-[1].wav
+key=53
+lovel=32
+hivel=62
+
+<region> sample=Samples\Crash 9 - 03-[1].wav
+key=53
+lovel=63
+hivel=94
+
+<region> sample=Samples\Crash 9 - 04-[1].wav
+key=53
+lovel=95
+hivel=127
+
+<region> sample=Samples\Bachok 4 - 01.wav
+key=54
+lovel=1
+hivel=41
+
+<region> sample=Samples\Bachok 4 - 02.wav
+key=54
+lovel=42
+hivel=84
+
+<region> sample=Samples\Bachok 4 - 03.wav
+key=54
+lovel=85
+hivel=127
+
+<region> sample=Samples\Bachok 5 - 01.wav
+key=55
+lovel=1
+hivel=41
+
+<region> sample=Samples\Bachok 5 - 02.wav
+key=55
+lovel=42
+hivel=84
+
+<region> sample=Samples\Bachok 5 - 03.wav
+key=55
+lovel=85
+hivel=127
+
+<region> sample=Samples\Bachok 6 - 01.wav
+key=56
+lovel=1
+hivel=41
+
+<region> sample=Samples\Bachok 6 - 02.wav
+key=56
+lovel=42
+hivel=84
+
+<region> sample=Samples\Bachok 6 - 03.wav
+key=56
+lovel=85
+hivel=127
+
+<region> sample=Samples\Bachok 7 - 01.wav
+key=57
+lovel=1
+hivel=41
+
+<region> sample=Samples\Bachok 7 - 02.wav
+key=57
+lovel=42
+hivel=84
+
+<region> sample=Samples\Bachok 7 - 03.wav
+key=57
+lovel=85
+hivel=127
+
+<region> sample=Samples\Bachok 8 - 01.wav
+key=58
+lovel=1
+hivel=41
+
+<region> sample=Samples\Bachok 8 - 02.wav
+key=58
+lovel=42
+hivel=84
+
+<region> sample=Samples\Bachok 8 - 03.wav
+key=58
+lovel=85
+hivel=127
+
+<region> sample=Samples\Bachok 1 - 01.wav
+key=59
+lovel=1
+hivel=31
+
+<region> sample=Samples\Bachok 1 - 02.wav
+key=59
+lovel=32
+hivel=62
+
+<region> sample=Samples\Bachok 1 - 03.wav
+key=59
+lovel=63
+hivel=94
+
+<region> sample=Samples\Bachok 1 - 04.wav
+key=59
+lovel=95
+hivel=127
+
+<region> sample=Samples\Bachok 2 - 01.wav
+key=60
+lovel=1
+hivel=31
+
+<region> sample=Samples\Bachok 2 - 02.wav
+key=60
+lovel=32
+hivel=62
+
+<region> sample=Samples\Bachok 2 - 03.wav
+key=60
+lovel=63
+hivel=94
+
+<region> sample=Samples\Bachok 2 - 04.wav
+key=60
+lovel=95
+hivel=127
+
+<region> sample=Samples\Bachok 3 - 01.wav
+key=61
+lovel=1
+hivel=31
+
+<region> sample=Samples\Bachok 3 - 02.wav
+key=61
+lovel=32
+hivel=62
+
+<region> sample=Samples\Bachok 3 - 03.wav
+key=61
+lovel=63
+hivel=94
+
+<region> sample=Samples\Bachok 3 - 04.wav
+key=61
+lovel=95
+hivel=127
+
+<region> sample=Samples\Bachok opt - 01.wav
+key=62
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 02.wav
+key=63
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 03.wav
+key=64
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 04.wav
+key=65
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 05.wav
+key=66
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 06.wav
+key=67
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 07.wav
+key=68
+lovel=1
+hivel=127
+
+<region> sample=Samples\Bachok opt - 08.wav
+key=69
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani 1 - 01.wav
+key=70
+lovel=1
+hivel=24
+
+<region> sample=Samples\Timpani 1 - 02.wav
+key=70
+lovel=25
+hivel=50
+
+<region> sample=Samples\Timpani 1 - 03.wav
+key=70
+lovel=51
+hivel=75
+
+<region> sample=Samples\Timpani 1 - 04.wav
+key=70
+lovel=76
+hivel=101
+
+<region> sample=Samples\Timpani 1 - 05.wav
+key=70
+lovel=102
+hivel=127
+
+<region> sample=Samples\Timpani 2 - 01.wav
+key=71
+lovel=1
+hivel=24
+
+<region> sample=Samples\Timpani 2 - 02.wav
+key=71
+lovel=25
+hivel=50
+
+<region> sample=Samples\Timpani 2 - 03.wav
+key=71
+lovel=51
+hivel=75
+
+<region> sample=Samples\Timpani 2 - 04.wav
+key=71
+lovel=76
+hivel=101
+
+<region> sample=Samples\Timpani 2 - 05.wav
+key=71
+lovel=102
+hivel=127
+
+<region> sample=Samples\Timpani 3 - 01.wav
+key=72
+lovel=1
+hivel=41
+
+<region> sample=Samples\Timpani 3 - 02.wav
+key=72
+lovel=42
+hivel=84
+
+<region> sample=Samples\Timpani 3 - 03.wav
+key=72
+lovel=85
+hivel=127
+
+<region> sample=Samples\Timpani 4 - 01.wav
+key=73
+lovel=1
+hivel=31
+
+<region> sample=Samples\Timpani 4 - 02.wav
+key=73
+lovel=32
+hivel=62
+
+<region> sample=Samples\Timpani 4 - 03.wav
+key=73
+lovel=63
+hivel=94
+
+<region> sample=Samples\Timpani 4 - 04.wav
+key=73
+lovel=95
+hivel=127
+
+<region> sample=Samples\Timpani 5 - 01.wav
+key=74
+lovel=1
+hivel=31
+
+<region> sample=Samples\Timpani 5 - 02.wav
+key=74
+lovel=32
+hivel=62
+
+<region> sample=Samples\Timpani 5 - 03.wav
+key=74
+lovel=63
+hivel=94
+
+<region> sample=Samples\Timpani 5 - 04.wav
+key=74
+lovel=95
+hivel=127
+
+<region> sample=Samples\Timpani 6 - 01.wav
+key=75
+lovel=1
+hivel=31
+
+<region> sample=Samples\Timpani 6 - 02.wav
+key=75
+lovel=32
+hivel=62
+
+<region> sample=Samples\Timpani 6 - 03.wav
+key=75
+lovel=63
+hivel=94
+
+<region> sample=Samples\Timpani 6 - 04.wav
+key=75
+lovel=95
+hivel=127
+
+<region> sample=Samples\Timpani 7 - 01.wav
+key=76
+lovel=1
+hivel=31
+
+<region> sample=Samples\Timpani 7 - 02.wav
+key=76
+lovel=32
+hivel=62
+
+<region> sample=Samples\Timpani 7 - 03.wav
+key=76
+lovel=63
+hivel=94
+
+<region> sample=Samples\Timpani 7 - 04.wav
+key=76
+lovel=95
+hivel=127
+
+<region> sample=Samples\Timpani opt - 01.wav
+key=77
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani opt - 02.wav
+key=78
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani opt - 03.wav
+key=79
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani opt - 04.wav
+key=80
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani opt - 05.wav
+key=81
+lovel=1
+hivel=127
+
+<region> sample=Samples\Timpani opt - 06.wav
+key=82
+lovel=1
+hivel=127
+
+<region> sample=Samples\FridgeLow 1 - 01.wav
+key=83
+lovel=1
+hivel=31
+offset=3922
+
+<region> sample=Samples\FridgeLow 1 - 02-[3].wav
+key=83
+lovel=32
+hivel=62
+offset=4758
+
+<region> sample=Samples\FridgeLow 1 - 03-[1].wav
+key=83
+lovel=63
+hivel=94
+offset=4550
+
+<region> sample=Samples\FridgeLow 1 - 04-[1].wav
+key=83
+lovel=95
+hivel=127
+offset=5568
+
+<region> sample=Samples\FridgeLow 2 - 01.wav
+key=84
+lovel=1
+hivel=31
+offset=6650
+
+<region> sample=Samples\FridgeLow 2 - 02.wav
+key=84
+lovel=32
+hivel=62
+offset=3965
+
+<region> sample=Samples\FridgeLow 2 - 03.wav
+key=84
+lovel=63
+hivel=94
+offset=3519
+
+<region> sample=Samples\FridgeLow 2 - 04-[10].wav
+key=84
+lovel=95
+hivel=127
+
+<region> sample=Samples\Woodsticks.wav
+key=23
+lovel=1
+hivel=127
+
+
