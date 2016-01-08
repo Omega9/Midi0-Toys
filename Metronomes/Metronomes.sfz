@@ -1,0 +1,775 @@
+// Title: Metronomes
+// Author: Omega9 (about.me/Omega9)
+
+// Collection of metronome sounds found all over the internets.
+// SFZ-patch contains notes from C3 to G4 with two levels of velocity (first beat - 100-127, subsequent beat 0-99).
+
+// No license. Do whatever you want.
+
+// General Settings
+ampeg_attack=0
+ampeg_decay=0
+ampeg_sustain=0
+ampeg_release=0
+ampeg_hold=0
+ampeg_delay=0
+
+// Logic Click: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=12
+	pan=0
+	transpose=0
+	hikey=48
+	lokey=48
+	pitch_keycenter=48
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\CLK_LOGIC1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=12
+	pan=0
+	transpose=0
+	hikey=48
+	lokey=48
+	pitch_keycenter=48
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\CLK_LOGIC2.wav
+		seq_position=1
+
+// Ping: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=49
+	lokey=49
+	pitch_keycenter=49
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Ping Hi.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=8
+	pan=0
+	transpose=0
+	hikey=49
+	lokey=49
+	pitch_keycenter=49
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Ping Low.wav
+		seq_position=1
+
+// Ping_clone: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=50
+	lokey=50
+	pitch_keycenter=50
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Ping-Hi.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=8
+	pan=0
+	transpose=0
+	hikey=50
+	lokey=50
+	pitch_keycenter=50
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Ping-Low.wav
+		seq_position=1
+
+// Cowbell: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=51
+	lokey=51
+	pitch_keycenter=51
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\cowbells\hiclick.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=8
+	pan=0
+	transpose=0
+	hikey=51
+	lokey=51
+	pitch_keycenter=51
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\cowbells\loclick.wav
+		seq_position=1
+
+// Cubase: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=52
+	lokey=52
+	pitch_keycenter=52
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Cubase Click\Click 1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=52
+	lokey=52
+	pitch_keycenter=52
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Cubase Click\Click 2.wav
+		seq_position=1
+
+// Logic Click: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=53
+	lokey=53
+	pitch_keycenter=53
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Logic_Click\CLK_LOGIC1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=53
+	lokey=53
+	pitch_keycenter=53
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Logic_Click\CLK_LOGIC2.wav
+		seq_position=1
+
+// Metro: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=8
+	pan=0
+	transpose=0
+	hikey=54
+	lokey=54
+	pitch_keycenter=54
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Metro\HighTone.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=8
+	pan=0
+	transpose=0
+	hikey=54
+	lokey=54
+	pitch_keycenter=54
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Metro\LowTone.wav
+		seq_position=1
+
+// metro_christeck: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=55
+	lokey=55
+	pitch_keycenter=55
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_christeck\Metronom Claves.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=10
+	pan=0
+	transpose=0
+	hikey=55
+	lokey=55
+	pitch_keycenter=55
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_christeck\Metronom Taktell Junior.wav
+		seq_position=1
+
+// metro_dan: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=56
+	lokey=56
+	pitch_keycenter=56
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_dan\metro_bar.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=56
+	lokey=56
+	pitch_keycenter=56
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_dan\metro_beat.wav
+		seq_position=1
+
+// metro_frank: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=57
+	lokey=57
+	pitch_keycenter=57
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_frank\metro_1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=57
+	lokey=57
+	pitch_keycenter=57
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_frank\metro_other.wav
+		seq_position=1
+
+// metro_mine: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=10
+	pan=0
+	transpose=0
+	hikey=58
+	lokey=58
+	pitch_keycenter=58
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_mine\MetroBar1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=10
+	pan=0
+	transpose=0
+	hikey=58
+	lokey=58
+	pitch_keycenter=58
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\metro_mine\MetroBeat1.wav
+		seq_position=1
+
+// Metronome 1: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=19
+	pan=0
+	transpose=0
+	hikey=59
+	lokey=59
+	pitch_keycenter=59
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Metronome (1)\Metronome_hi.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=18
+	pan=0
+	transpose=0
+	hikey=59
+	lokey=59
+	pitch_keycenter=59
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Metronome (1)\Metronome_low.wav
+		seq_position=1
+
+// Pro-Tools Default Click: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=17
+	pan=0
+	transpose=0
+	hikey=60
+	lokey=60
+	pitch_keycenter=60
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Pro-Tools Default Click\PT Click - Default 1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=17
+	pan=0
+	transpose=0
+	hikey=60
+	lokey=60
+	pitch_keycenter=60
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Pro-Tools Default Click\PT Click - Default 2.wav
+		seq_position=1
+
+// Pro-Tools Marimba: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=61
+	lokey=61
+	pitch_keycenter=61
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Pro-Tools Marimba\MARIMBA1.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=16
+	pan=0
+	transpose=0
+	hikey=61
+	lokey=61
+	pitch_keycenter=61
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Pro-Tools Marimba\MARIMBA2.wav
+		seq_position=1
+
+// SeikoSQ50: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=11
+	pan=0
+	transpose=0
+	hikey=62
+	lokey=62
+	pitch_keycenter=62
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\SeikoSQ50\High Seiko SQ50.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=11
+	pan=0
+	transpose=0
+	hikey=62
+	lokey=62
+	pitch_keycenter=62
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\SeikoSQ50\Low Seiko SQ50.wav
+		seq_position=1
+
+// Sticks: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=63
+	lokey=63
+	pitch_keycenter=63
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Sticks\4d.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=63
+	lokey=63
+	pitch_keycenter=63
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Sticks\4c#.wav
+		seq_position=1
+
+// Vegas: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=64
+	lokey=64
+	pitch_keycenter=64
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Vegas\first_beat.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=7
+	pan=0
+	transpose=0
+	hikey=64
+	lokey=64
+	pitch_keycenter=64
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Vegas\subsequent.wav
+		seq_position=1
+
+// Yamaha: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=17
+	pan=0
+	transpose=0
+	hikey=65
+	lokey=65
+	pitch_keycenter=65
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Yamaha\first_beat.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=11
+	pan=0
+	transpose=0
+	hikey=65
+	lokey=65
+	pitch_keycenter=65
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\Yamaha\subsequent.wav
+		seq_position=1
+
+// Zoom bell: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=9
+	pan=0
+	transpose=0
+	hikey=66
+	lokey=66
+	pitch_keycenter=66
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\ZOOM\Bell\first_beat.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=9
+	pan=0
+	transpose=0
+	hikey=66
+	lokey=66
+	pitch_keycenter=66
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\ZOOM\Bell\subsequent.wav
+		seq_position=1
+
+// Zoom sticks: 59-61
+
+	// Velocity Layer 1
+	<group>
+	volume=9
+	pan=0
+	transpose=0
+	hikey=67
+	lokey=67
+	pitch_keycenter=67
+	seq_length=1
+	lovel=100
+	hivel=127
+
+	// user opcodes
+
+		<region>
+		sample=Samples\ZOOM\Sticks\first_beat.wav
+		seq_position=1
+
+	// Velocity Layer 2
+	<group>
+	volume=6
+	pan=0
+	transpose=0
+	hikey=67
+	lokey=67
+	pitch_keycenter=67
+	seq_length=1
+	lovel=0
+	hivel=99
+
+	// user opcodes
+
+		<region>
+		sample=Samples\ZOOM\Sticks\subsequent.wav
+		seq_position=1
