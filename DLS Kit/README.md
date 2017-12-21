@@ -10,6 +10,7 @@ DLS is a tiny percussion samples library with a sounds of BDSM devices, includin
 - Paddle - C3-D#3
 
 Format: Kontakt (v5.5 or newer required), SFZ, Ableton Pack.
+
 Kontakt patch includes 8 presets and a pair of scripts.
 
 Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
