@@ -1,7 +1,7 @@
 # DLS Kit
-by [Omega9][1], Olesia Romanova, [Roman Screamroad][2]
+by [Omega9][1], Lissenuru, [Roman Screamroad][2]
 
-DLS is a tiny percussion samples library with a sounds of BDSM devices, including:
+DLS is a tiny percussion samples library of a sounds of a BDSM devices, including:
 
 - Flogger - C2-G#2
 - Belt - A2-B2
