@@ -17,7 +17,7 @@ Licensed under [CC-BY-SA 4.0][3]
 If you like it, [buy us a beer][4].
 
 
-[1]: https://Omega9.github.io
+[1]: https://Omega9.web.app
 [2]: https://vk.com/rscramroad
 [3]: https://creativecommons.org/licenses/by-sa/4.0/
-[4]: https://omega9.github.io/donation/
+[4]: https://omega9.web.app/donation/

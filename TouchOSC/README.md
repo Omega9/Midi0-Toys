@@ -57,6 +57,6 @@ Padboard-mid-h.touchosc
 ![](/TouchOSC/screenshots/Padboard2.png)
 ---
 
-UNDONE:
+TODO:
 XYpad.touchosc
 Y-position velocity keyboard.touchosc
