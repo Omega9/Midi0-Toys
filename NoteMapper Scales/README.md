@@ -1,4 +1,6 @@
-# [NoteMapper](http://codefn42.com/notemapper.html) scales
+# NoteMapper microtonal scales
+
+[NoteMapper](http://codefn42.com/notemapper.html) scales are used to remap your MIDI-controller to play microtonal scales.
 
 **Scales.txt** locates in **C:/Users/_Username_/My Documents/CodeFN42/NoteMapper/** and contain scales in such format:
 ```
@@ -21,4 +23,4 @@ So now you can do things like this:
 22-edo "Just" Minor;0,4,6,9,13,15,18;22
 ```
 
-In this repository there's a collection of scales for [22-edo](http://xenharmonic.wikispaces.com/22edo), [19-edo](http://xenharmonic.wikispaces.com/19edo) or [Carlos Beta](http://xenharmonic.wikispaces.com/Carlos+Beta).
+In this repository there's a collection of scales for [22-edo](https://en.xen.wiki/w/22-edo), [19-edo](https://en.xen.wiki/w/19-edo) or [Carlos Beta](https://en.xen.wiki/w/Carlos_Beta).
