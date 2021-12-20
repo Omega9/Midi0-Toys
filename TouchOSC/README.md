@@ -1,9 +1,10 @@
 # [TouchOSC](hexler.net/software/touchosc) layouts
+by [Omega9](https://omega9.web.app/)
 
-**ReaperRecorder** is based on [TouchReaper](forum.cockos.com/showpost.php?s=764669ee8aaa672e21baf215bc17aadd&p=923046&postcount=9) layout.
+**ReaperRecorder** is based on [TouchReaper](https://forum.cockos.com/showpost.php?s=764669ee8aaa672e21baf215bc17aadd&p=923046&postcount=9) layout.
 It's much simpler and intended to use as a remote control for a record time rather than mixer.
 
-Place **ReaperRecorder.ReaperOSC** to **C:/users/_username_/Application Data/REAPER/OSC/**
+Place *ReaperRecorder.ReaperOSC* to `C:/Users/[username]/Application Data/REAPER/OSC/`
 
 ReaperRecorder.touchosc
 ReaperRecorderH.touchosc
@@ -12,7 +13,7 @@ ReaperRecorder.ReaperOSC
 ![](/TouchOSC/screenshots/ReaperRecorderH.png)
 ---
 
-Simple [17-edo](xenharmonic.wikispaces.com/17edo) Halberstadt keyboard.
+Simple [17-edo](https://en.xen.wiki/w/17edo)  Halberstadt keyboard.
 The higher and the lower version.
 
 17-edo keyboard.touchosc
@@ -20,7 +21,7 @@ The higher and the lower version.
 ![](/TouchOSC/screenshots/17-edo_keyboard.png)
 ---
 
-Simple [19-edo](xenharmonic.wikispaces.com/19edo) Halberstadt keyboard.
+Simple [19-edo]([xenharmonic.wikispaces.com/19edo](https://en.xen.wiki/w/19-edo)) Halberstadt keyboard.
 The higher and the lower version.
 
 19-edo keyboard.touchosc
@@ -28,7 +29,7 @@ The higher and the lower version.
 ![](/TouchOSC/screenshots/19-edo_keyboard.png)
 ---
 
-Joseph Yasser's 19-edo 12-7 ([supradiatonic](xenharmonic.wikispaces.com/19edo#As a means of extending harmony) and diatonic) keyboard.
+Joseph Yasser's 19-edo 12-7 ([supradiatonic](https://en.xen.wiki/w/19edo#As_a_means_of_extending_harmony) and diatonic) keyboard.
 The higher and the lower version.
 
 Yasser's 19-edo keyboard-hi.touchosc
@@ -60,3 +61,6 @@ Padboard-mid-h.touchosc
 TODO:
 XYpad.touchosc
 Y-position velocity keyboard.touchosc
+
+---
+If you like it, please consider making a [donation](https://omega9.web.app/donation/).
