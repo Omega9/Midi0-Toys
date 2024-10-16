@@ -206,12 +206,6 @@
 #X msg -461 559 16;
 #X obj 19 79 note 382 38 Inter empty 0 51 51 51 0 205 205 205 1 1 MIDI Machinegun;
 #X obj 19 159 note 142 14 Inter empty 0 51 51 51 0 224 224 224 0 0 Single note trigger: 12;
-#X obj 1219 39 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Patch by Omega9;
-#X obj 1218 60 note 162 14 Inter empty 0 51 51 51 0 224 224 224 0 2 https://omega9.web.app;
-#X obj 1262 41 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Patch by Omega9;
-#X obj 1261 62 note 162 14 Inter empty 0 51 51 51 0 224 224 224 0 2 https://omega9.web.app;
-#X obj 1421 90 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Patch by Omega9;
-#X obj 1420 111 note 162 14 Inter empty 0 51 51 51 0 224 224 224 0 2 https://omega9.web.app;
 #X obj 239 159 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Patch: Black Imp\\\, Omega9;
 #X obj 239 199 note 162 14 Inter empty 0 51 51 51 0 224 224 224 0 2 https://omega9.web.app;
 #X obj 239 179 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Idea: Omega9;
