@@ -1,6 +1,6 @@
 #N canvas 827 239 957 280 12;
 #X obj 19 19 keyboard 16 82 8 1 0 0 empty empty;
-#X obj 19 119 hradio 41 1 0 3 empty empty <=\ PowerChord 140 20 0 20 #e4e4e4 #4d4d4d #373737 0;
+#X obj 19 119 hradio 41 1 0 3 empty empty empty 140 20 0 20 #e4e4e4 #4d4d4d #373737 0;
 #X obj -1 -81 notein;
 #X obj -121 259 noteout;
 #X obj 19 179 keyboard 16 82 8 1 0 0 empty empty;
@@ -22,6 +22,10 @@
 #X obj -241 -161 - 8192;
 #X obj -321 -201 ctlin;
 #X obj -321 -121 ctlout;
+#X obj 99 -161 loadbang;
+#X obj 159 119 note 202 38 Inter empty 0 51 51 51 0 224 224 224 0 1 PowerChord;
+#X obj 779 119 note 161 14 Inter empty 0 51 51 51 0 224 224 224 0 2 Patch by Omega9;
+#X obj 778 140 note 162 14 Inter empty 0 51 51 51 0 224 224 224 0 2 https://omega9.web.app;
 #X connect 0 0 6 0;
 #X connect 1 0 10 3;
 #X connect 2 0 0 0;
@@ -48,3 +52,5 @@
 #X connect 21 0 22 0;
 #X connect 21 1 22 1;
 #X connect 21 2 22 2;
+#X connect 23 0 16 0;
+#X connect 23 0 17 0;
