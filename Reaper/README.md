@@ -3,7 +3,10 @@
 ## MiniFuse Control
 A Lua-script for Reaper to control the Arturia Minifuse 1 and 2 audio cards, a wrapper for [minifuse-cli](https://github.com/zxsleebu/minifuse-cli) and [mf-cli](https://github.com/nolight132/mf-cli). This script will not work unless one of these applications is installed, depending on your operating system.
 
-![MiniFuse Control Panel](MiniFuse_Control/MiniFuse_Control_Panel.png)
+![MiniFuse Control Panel](MiniFuse_Control_Panel.png)
+
+### Install
+Download the `MiniFuse_Control` directory, which contains `MiniFuse_Control.lua` and `MiniFuse_Control.ini`, and place it in the `Scripts` in the Reaper settings directory.
 
 ### Configuration
 
@@ -30,4 +33,13 @@ Currently mf-cli supports only one channel, so you can't switch Hi-Z on the seco
 ```
 python=C:\Python314\python.exe
 script=D:\Tools\minifuse-cli\main.py
+```
+
+### Run
+In Reaper `Actions > Show action list... > New action > Load ReaScript...` and load `MiniFuse_Control.lua`.
+
+To run the script automatically when starting Reaper, add the following line to `/REAPER/Scripts/__startup.lua`, where `_RSf314d93495085a9b2961efc1be2c6796844e49bf` is the script id that you will find in the Action list after the first launch:
+```lua
+-- Run Arturia MiniFuse Panel
+reaper.Main_OnCommand(reaper.NamedCommandLookup("_RSf314d93495085a9b2961efc1be2c6796844e49bf"), -1)
 ```
