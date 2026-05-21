@@ -1,0 +1,10 @@
+#N canvas 0 0 400 300 12;
+#X obj 50 30 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1 -1;
+#X obj 50 60 pdlua get_weather;
+#X obj 50 90 outlet;
+#X obj 80 90 outlet;
+#X text 50 110 Температура (°C);
+#X text 80 110 Влажность (%);
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 1 1 3 0;

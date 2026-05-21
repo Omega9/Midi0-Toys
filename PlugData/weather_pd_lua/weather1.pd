@@ -1,0 +1,8 @@
+#N canvas 0 0 400 300 12;
+#X obj 19 181 outlet;
+#X obj 179 181 outlet;
+#X text 19 220 Температура (°C);
+#X text 179 220 Влажность (%);
+#X msg 19 19 load weather_fetcher.lua;
+#X obj 19 59 pdlua get_weather;
+#X connect 4 0 5 0;
