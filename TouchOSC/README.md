@@ -1,4 +1,4 @@
-# [TouchOSC](hexler.net/software/touchosc) layouts
+# [TouchOSC](https://hexler.net/touchosc) layouts
 by [Omega9](https://omega9.web.app/)
 
 **ReaperRecorder** is based on [TouchReaper](https://forum.cockos.com/showpost.php?s=764669ee8aaa672e21baf215bc17aadd&p=923046&postcount=9) layout.

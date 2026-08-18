@@ -1,6 +1,6 @@
 # NoteMapper microtonal scales
 
-[NoteMapper](http://codefn42.com/notemapper.html) scales are used to remap your MIDI-controller to play microtonal scales.
+[NoteMapper](https://www.codefn42.com/notemapper/index.html) scales are used to remap your MIDI-controller to play microtonal scales.
 
 **Scales.txt** locates in **C:/Users/_Username_/My Documents/CodeFN42/NoteMapper/** and contain scales in such format:
 ```
@@ -13,7 +13,7 @@ Pentatonic - Major;0,2,4,7,9
 Pentatonic - Minor;0,3,5,7,10
 Blues;0,3,5,6,7,10
 ```
-Since version 1.02 you can set a note where pattern begins to repeat. Many thanks to [CodeFN42](http://codefn42.com/) for that feature.
+Since version 1.02 you can set a note where pattern begins to repeat. Many thanks to [CodeFN42](https://www.codefn42.com/) for that feature.
 ```
 Chromatic;0,1,2,3,4,5,6,7,8,9,10,11;12
 ```

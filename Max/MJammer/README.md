@@ -15,5 +15,5 @@ You can use up to 16 mappings according to 16 midi-channels.
 
 Little buttons beside drop-down menus is a panic buttons.
 
-![MJammer](/MJammer/MJammer_screenshot.png)
-  [14a0d579]: http://www.codefn42.com/notemapper.html "NoteMapper"
+![MJammer](/Max/MJammer/MJammer_screenshot.png)
+  [14a0d579]: https://www.codefn42.com/notemapper/index.html "NoteMapper"
